@@ -1,6 +1,6 @@
 # Generic RPG
 
-​A generic RPG game made on Godot in the process of learning to use the engine.  
+​A generic RPG made on Godot in the process of learning to use the engine.  
 Assets proportioned by Crack The Code​ ([https://www.crackthecode.la/](https://www.crackthecode.la/)​) on the time I was teacher there.
 
 Controls:
