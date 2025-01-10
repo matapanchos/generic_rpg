@@ -9,6 +9,6 @@ Controls:
 
 Objective: Try to collect all coins before the gargoyles kill you.
 
-Itch.io page: [https://matapanchos.itch.io/generic_rpg​](https://matapanchos.itch.io/generic_rpg​)
+Itch.io page: [https://matapanchos.itch.io/generic_rpg](https://matapanchos.itch.io/generic_rpg)
 
-Source code: [https://github.com/matapanchos/generic_rpg​](https://github.com/matapanchos/generic_rpg​)
+Source code: [https://github.com/matapanchos/generic_rpg](https://github.com/matapanchos/generic_rpg)
